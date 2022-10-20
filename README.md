@@ -2,7 +2,7 @@
 
 >Marathon of Vladilen Minin - Day 2nd
 
-Slider on pure JS & CSS from scratch with smooth animation.
+Drag & Drop function with cards and placeholders.
 
 <b>
   
@@ -12,5 +12,5 @@ Slider on pure JS & CSS from scratch with smooth animation.
   
 </b>
 
-# [LIVE DEMO](https://codepen.io/jeyefendi/full/YzLoqOg)
+# [CodePen](https://codepen.io/jeyefendi/pen/poVXxYe)
 ![Logo](/src/COVER.png)
