@@ -13,4 +13,4 @@ Drag & Drop function with cards and placeholders.
 </b>
 
 # [CodePen](https://codepen.io/jeyefendi/pen/poVXxYe)
-![Logo](/src/COVER.png)
+![Logo](/COVER.png)
