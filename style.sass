@@ -12,12 +12,10 @@ form,fieldset,legend,
 table,th,td,caption,
 hr
     box-sizing: border-box
-    margin: 0
-    padding: 0
 
 body
     font-family: $font
-    background-color: #e5e5e5
+    background-color: #e6ffe6
     display: flex
     padding-top: 5rem
     justify-content: center
@@ -42,9 +40,11 @@ body
     box-shadow: $shadow
     border-radius: 20px
     background: #f7f6f7
-    padding: 0.8rem 1rem
+    padding: 0
     color: #828282
-    text-align: center
+    display: flex
+    justify-content: center
+    align-items: center
     cursor: grab
 
 .item:active
@@ -64,10 +64,12 @@ body
     background: $bg-done
 
 .hold
-    border: 5px solid #eee
+    border: 2px solid #00008B
+    align-items: center
 
 .hide
     display: none
 
 .hovered
-    border-top: 2px solid #8ed7ed
+    border: 2px solid #8ed7ed
+    border-radius: 20px
